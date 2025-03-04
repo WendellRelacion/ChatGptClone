@@ -1,7 +1,3 @@
-Sure, here's a README template based on your description:
-
----
-
 # Chatbot Interface with AI-Powered Natural Language Processing
 
 This project is an interactive chatbot interface that connects users with an AI-powered chatbot for natural language processing tasks. It leverages a full-stack technology stack to provide a seamless user experience.
